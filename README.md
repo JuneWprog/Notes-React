@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Settings: 
+1.  Install node.js
+2.  git clone https://github.com/JuneWprog/TodoLIst-React.git
+3.  Move to your favorite directory
+4.  Create your react App : npx create-react-app MyApp
+5.  cd MyApp
+6.  npm install
+7.  delete files in MyApp according to your needs.
+8.  copy this git files into your MyApp 
+9. *note: beaware the file path.
+10.  run your server: npm start
+ 
+
+
+
 
 ## Available Scripts
 
