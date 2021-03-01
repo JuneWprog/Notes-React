@@ -11,8 +11,9 @@ Settings:
 6.  npm install
 7.  delete files in MyApp according to your needs.
 8.  copy this git files into your MyApp 
-9. *note: beaware the file path.
-10.  run your server: npm start
+    *note: be aware of the file path.
+    
+9.  Finally, run your server: npm start
  
 
 
